@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="submit">SUBMIT</string>
+    <string name="Prima">Prima</string>
+    <string name="Fout">Fout</string>
+    <string name="T">T</string>
+    <string name="F">F</string>
+    <string name="logicaApp">logicaApp</string>
+    <string name="Conjunction">Conjunction</string>
+
+</resources>
